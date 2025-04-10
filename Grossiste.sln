@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grossiste", "Grossiste\Grossiste.csproj", "{92F2F77A-CD2A-4A94-AC41-2F67DE0EA59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grossiste.Tests", "Grossiste.Tests\Grossiste.Tests.csproj", "{4686A83D-0B72-4574-8D47-88DD15A7A8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F2F77A-CD2A-4A94-AC41-2F67DE0EA59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F2F77A-CD2A-4A94-AC41-2F67DE0EA59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F2F77A-CD2A-4A94-AC41-2F67DE0EA59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F2F77A-CD2A-4A94-AC41-2F67DE0EA59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4686A83D-0B72-4574-8D47-88DD15A7A8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4686A83D-0B72-4574-8D47-88DD15A7A8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4686A83D-0B72-4574-8D47-88DD15A7A8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4686A83D-0B72-4574-8D47-88DD15A7A8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
