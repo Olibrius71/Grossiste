@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Run Tests
-        run: dotnet test --no-build --verbosity normal
+        run: dotnet test Grossiste.sln --no-build --verbosity normal
