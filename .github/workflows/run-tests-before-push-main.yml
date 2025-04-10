@@ -1,0 +1,14 @@
+﻿name: Run les tests avant de pousser sur master
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run Tests
+        run: dotnet test --no-build --verbosity normal
